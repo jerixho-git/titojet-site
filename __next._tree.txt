@@ -1,3 +1,2 @@
-:HL["/titojet-site/_next/static/chunks/369a7824a26cec18.css","style"]
-:HL["https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap","style"]
-0:{"buildId":"c2achjCNvcolN33PWTugK","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+:HL["/titojet-site/_next/static/chunks/2292ee2e91492c46.css","style"]
+0:{"buildId":"UkCPcTqhQYnaj3PJ18SzX","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"(main)","paramType":null,"paramKey":"(main)","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
