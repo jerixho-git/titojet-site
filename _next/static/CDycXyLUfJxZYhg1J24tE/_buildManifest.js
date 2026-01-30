@@ -1,7 +1,12 @@
 self.__BUILD_MANIFEST = {
   "__rewrites": {
     "afterFiles": [],
-    "beforeFiles": [],
+    "beforeFiles": [
+      {
+        "source": "/titojet-site//_next/:path+",
+        "destination": "/titojet-site/_next/:path+"
+      }
+    ],
     "fallback": []
   },
   "sortedPages": [
